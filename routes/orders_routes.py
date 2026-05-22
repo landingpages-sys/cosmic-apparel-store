@@ -5,6 +5,7 @@ import logging
 import hmac
 import hashlib
 import json
+import os
 from services.shopify_service import shopify
 from services.printify_service import printify
 
